@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Monsters-cardex/static/css/main.f077054e.chunk.css",
+    "main.js": "/Monsters-cardex/static/js/main.56d7433f.chunk.js",
+    "main.js.map": "/Monsters-cardex/static/js/main.56d7433f.chunk.js.map",
+    "runtime-main.js": "/Monsters-cardex/static/js/runtime-main.d8708231.js",
+    "runtime-main.js.map": "/Monsters-cardex/static/js/runtime-main.d8708231.js.map",
+    "static/js/2.74f2e207.chunk.js": "/Monsters-cardex/static/js/2.74f2e207.chunk.js",
+    "static/js/2.74f2e207.chunk.js.map": "/Monsters-cardex/static/js/2.74f2e207.chunk.js.map",
+    "index.html": "/Monsters-cardex/index.html",
+    "static/css/main.f077054e.chunk.css.map": "/Monsters-cardex/static/css/main.f077054e.chunk.css.map",
+    "static/js/2.74f2e207.chunk.js.LICENSE.txt": "/Monsters-cardex/static/js/2.74f2e207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8708231.js",
+    "static/js/2.74f2e207.chunk.js",
+    "static/css/main.f077054e.chunk.css",
+    "static/js/main.56d7433f.chunk.js"
+  ]
+}
